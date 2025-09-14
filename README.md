@@ -84,13 +84,13 @@ This Institute Management System provides a complete solution for managing stude
 
 ## File Structure
 
-StudentManagementSystem/
-├── main.c # Main source code
-├── COURSE.TXT # Course records (auto-generated)
-├── STUDENT.TXT # Student records (auto-generated)
-├── COURSEID.TXT # Course ID counter (auto-generated)
-├── ID.TXT # Student ID counter (auto-generated)
-└── README.md # This file
+StudentManagementSystem/ <br>
+├── Institutesystem.cpp # Main source code <br>
+├── COURSE.TXT # Course records (auto-generated) <br>
+├── STUDENT.TXT # Student records (auto-generated) <br>
+├── COURSEID.TXT # Course ID counter (auto-generated) <br>
+├── ID.TXT # Student ID counter (auto-generated) <br>
+└── README.md # This file 
 
 
 ## Key Functions
